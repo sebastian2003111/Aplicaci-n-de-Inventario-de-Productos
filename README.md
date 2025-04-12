@@ -1,6 +1,6 @@
 # 🛒 Aplicación de Inventario de Productos en Java
 
-![Interfaz de la aplicación]()
+![Interfaz de la aplicación](InterfazApp.png)
 
 Esta es una aplicación de escritorio desarrollada en **Java Swing** para gestionar un inventario de productos de una tienda. La aplicación permite **agregar, eliminar, modificar, buscar y mostrar productos**, así como **guardar y cargar** los datos desde un archivo de texto.
 
