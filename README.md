@@ -28,7 +28,7 @@ Esta es una aplicación de escritorio desarrollada en **Java Swing** para gestio
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/inventario-productos.git
+   git clone https://github.com/sebastian2003111/Aplicaci-n-de-Inventario-de-Productos.git
 
 2. Abre el proyecto en tu IDE Java (NetBeans, VS Code, IntelliJ).
 
